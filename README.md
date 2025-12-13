@@ -24,7 +24,7 @@ Background GIF by [Reagan Walker](https://id.pinterest.com/pin/54887689203432372
 
 ## 💡 A Quote:
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?quote=No%20Internet%20No%20Peace&author=IT%20Support&type=horizontal&theme=radical)]
 
 ## 💻 My Tech Stack:
 
