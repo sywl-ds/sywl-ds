@@ -3,7 +3,12 @@
 <div align="center">
 
 [![Hello World, I'm Syawal](assets/myheader.gif)](https://github.com/jdg2896)
+
 Background GIF by [Reagan Walker](https://id.pinterest.com/pin/54887689203432372/) on [Pinterest](https://www.pinterest.com/).
+
+</div>
+
+<div align="center">
 
 [![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/swl_ds/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sywl-ds/) &nbsp;
