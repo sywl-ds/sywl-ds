@@ -16,8 +16,8 @@ Background GIF by [Reagan Walker](https://id.pinterest.com/pin/54887689203432372
 
 </div>
 
-- 🔭 I’m currently working on [Maximum The Ultimate](https://dialoguegroup.net/)
-- 🌱 I’m currently learning **System Administrator**
+- 🔭 I’m currently working on [Maximum The Ultimate](https://www.instagram.com/maximumtheultimate/)
+- 🌱 I am currently pursuing a career in **network engineering**
 - ⚡ Fun fact: I am a martial arts instructor, enjoy playing the guitar, and I am a big One Piece fan :heart:. Ikuzooo!!!:fire:
 
 <div align="center">
